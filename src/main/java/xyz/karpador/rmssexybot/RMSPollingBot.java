@@ -30,7 +30,7 @@ import org.telegram.telegrambots.exceptions.TelegramApiException;
 
 /**
  *
- * @author jonas
+ * @author Follpvosten
  */
 public class RMSPollingBot extends TelegramLongPollingBot {
 
